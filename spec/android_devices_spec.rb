@@ -1,7 +1,7 @@
 describe Android::Devices do
   describe 'check' do
     it 'should check if the devices list exists' do
-      File.delete('devices.csv')
+      File.delete('devices.csv') if File.exists? 'devices.csv'
       expect(Android::Devices.list_exists).to be(false)
     end
 
