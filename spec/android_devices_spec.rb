@@ -1,8 +1,20 @@
-
 describe Android::Devices do
+  describe 'check' do
+    it 'should check if the devices list exists' do
+      File.delete('devices.csv')
+      expect(Android::Devices.list_exists).to be(false)
+    end
+
+    it 'should warn if the devices list is over 30 days old' do
+      FileUtils.touch 'devices.csv', :mtime => Time.parse((DateTime.now - 31).to_s)
+      expect(Android::Devices.old_list?).to be(true)
+    end
+  end
+
   describe 'update' do
     it 'should be able to update itself' do
       expect(Android::Devices.update_devices('spec/test_devices.csv')).to be(true)
+      expect(Android::Devices.list_exists).to be(true)
       expect(CSV.read('devices.csv').count).to be(4)
     end
   end
