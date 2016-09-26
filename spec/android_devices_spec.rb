@@ -26,7 +26,7 @@ describe Android::Devices do
     end
 
     it 'should search by model' do
-      expect(Android::Devices.search_by_model('GT-I9507').first.manufacturer).to eq('Samsung')
+      expect(Android::Devices.search_by_model('GT-I9507').manufacturer).to eq('Samsung')
     end
 
     it 'should search by manufacturer' do

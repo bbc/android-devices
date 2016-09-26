@@ -9,6 +9,11 @@ module Android
         @device = device
         @model = model
       end
+
+      def name
+        return "#{@manufacturer} #{@brand}" if @brand
+        "#{@manufacturer} #{@model}"
+      end
     end
   end
 end

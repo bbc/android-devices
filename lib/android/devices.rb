@@ -26,7 +26,7 @@ module Android
     end
 
     def self.search_by_model(model)
-      models.select { |device| device.model == model}
+      models.select { |device| device.model == model}.first
     end
 
     def self.search_by_manufacturer(manufacturer)
