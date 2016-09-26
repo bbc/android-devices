@@ -29,6 +29,10 @@ module Android
       models.select { |device| device.model == model}
     end
 
+    def self.search_by_manufacturer(manufacturer)
+      models.select { |device| device.manufacturer == manufacturer}
+    end
+
     def self.models
       return @models unless @models.nil?
       @models = []

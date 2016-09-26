@@ -29,7 +29,7 @@ describe Android::Devices do
     end
 
     it 'should search by manufacturer' do
-      pending
+      expect(Android::Devices.search_by_manufacturer('Samsung').count).to be(3)
     end
   end
 end
