@@ -18,4 +18,18 @@ describe Android::Devices do
       expect(CSV.read('devices.csv').count).to be(4)
     end
   end
+
+  describe 'search' do
+    before(:all) do
+      Android::Devices.update_devices('spec/test_devices.csv')
+    end
+
+    it 'should search by model' do
+      expect(Android::Devices.search_by_model('GT-I9507').first.manufacturer).to eq('Samsung')
+    end
+
+    it 'should search by manufacturer' do
+      pending
+    end
+  end
 end

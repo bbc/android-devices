@@ -1,4 +1,5 @@
 require 'android/devices/version'
+require 'android/devices/model'
 require 'csv'
 
 module Android
@@ -22,6 +23,25 @@ module Android
 
     def self.old_list?
       return (File.mtime('devices.csv') < Time.parse((DateTime.now - 30).to_s))
+    end
+
+    def self.search_by_model(model)
+      models.select { |device| device.model == model}
+    end
+
+    def self.models
+      return @models unless @models.nil?
+      @models = []
+      devices.shift
+      devices.each do |device|
+        @models << Model.new(device[0], device[1], device[2], device[3])
+      end
+      @models
+    end
+
+    def self.devices
+      @devices = CSV.read('devices.csv') unless @devices
+      @devices
     end
   end
 end
