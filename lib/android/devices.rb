@@ -6,7 +6,7 @@ module Android
   module Devices
 
     def self.update_devices(url = '')
-      csv_url = url.nil? ? 'http://storage.googleapis.com/play_public/supported_devices.csv' : url
+      csv_url = url.nil? || url.empty? ? 'http://storage.googleapis.com/play_public/supported_devices.csv' : url
       begin
         devices = CSV.parse(open(csv_url).read)
         File.open('devices.csv','w') {|f| f.write(devices.inject([]) { |csv,row| csv << CSV.generate_line(row) }.join("").encode('UTF-8'))}
@@ -44,7 +44,9 @@ module Android
     end
 
     def self.devices
-      @devices = CSV.read('devices.csv') unless @devices
+      return @devices unless @devices.nil?
+      update_devices unless list_exists
+      @devices = CSV.read('devices.csv')
       @devices
     end
   end
