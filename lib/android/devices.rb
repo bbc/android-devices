@@ -9,8 +9,7 @@ module Android
       csv_url = url.nil? || url.empty? ? 'http://storage.googleapis.com/play_public/supported_devices.csv' : url
       begin
         devices = CSV.parse(open(csv_url).read)
-        File.open('devices.csv','w') {|f| f.write(devices.inject([]) { |csv,row| csv << CSV.generate_line(row) }.join("").encode('UTF-8'))}
-        #puts "Devices updated: #{devices.count - 1} devices available"
+        File.open('devices.csv','w') {|f| f.write(devices.inject([]) { |csv,row| csv << CSV.generate_line(row) }.join('').encode('UTF-8'))}
         return true
       rescue Exception
         raise 'Unable to update devices'
