@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.email		= ['jon.wilson01@bbc.co.uk']
   spec.summary		= %q{Human readable Android device names}
   spec.license		= 'MIT'
-  spec.homepage		= 'https://github.com/bbc/android-devices'
+  spec.homepage 	= 'https://github.com/bbc/android-devices'
 
   spec.files 		= `git ls-files -z`.split("\x0")
   spec.require_paths	= ['lib']
