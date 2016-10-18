@@ -1,6 +1,9 @@
 language: ruby
 rvm:
-  - 2.2
-  - jruby
-  - rbx-2
+- 2.2
+- jruby
 script: bundle exec rspec
+addons:
+  code_climate:
+    repo_token:
+      secure: mL/zNHPcqVpHdodXoYWAzFJgTpm5YWvwyB16ScVLe17Rfx4VikeanDZM3t/fAI2jiBjOku+zJZ62MpnTezoKF3iYwbNRqBa7urB31eeu+9rBt+dtxe60W+dDBZ0K0nABvKaixA3EK/7TZeNmadIpBJO3+74viKaYvy0fIbTwLWObaD+bmTHTOnXsu+qo31a/b4pAV2AZzNnmIrxk4/t9zU9m+kgeMyLsZs8io7FLgmnWHdpkTTS5T6qS++YCSfXrHsDtSgPshBuMhu47A8cXW6lVKVShskhkk+W132+Ar6MytndJqrORpS4znEbyb9g1JRTBirIFaiwzoqE9HZqH698qHm79rSQOvf/4MFVXqCR+Q10crPE3nq8/APxkCewwCw3Po2N/2QAUjGmKhiBlUiDJB3Hg/Zdqoli85i/lWGJKkXIOD7vnHw0HcmLKMWeivMfgD3O6GoJUSr2oFWZr92vToalUb2QKbuhFkfmjXbkO6wt1i3ALs+q7p1NbtyYwexp/9FK3yR14tBWdcstscsREo6Ozm2n+rIGxLEcoOFAXiBQkkJfV+g4+Z7YjfO3nH+vqpEBY0VsyfeP+Q26cty2CQS1+jA5Q1ytLKFFxwx9nXKmW23E0Wq9bdi77zPGhqtoX0kFC2yKi2p+iLedAyAvpoXrQrJmhMo9cbjqzCFM=
