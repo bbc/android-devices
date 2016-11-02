@@ -1,12 +1,6 @@
-lib = File.expand_path('../lib', __FILE__)
-
-$LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-
-require 'android/devices'
-
 Gem::Specification.new do |spec|
   spec.name		= 'android-devices'
-  spec.version		= Android::Devices::VERSION
+  spec.version		= '1.0.1'
   spec.authors		= ['Jon Wilson']
   spec.email		= ['jon.wilson01@bbc.co.uk']
   spec.summary		= %q{Human readable Android device names}

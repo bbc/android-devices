@@ -1,4 +1,5 @@
 require 'spec_helper'
+require 'android/devices'
 
 describe Android::Devices do
   describe 'check' do
