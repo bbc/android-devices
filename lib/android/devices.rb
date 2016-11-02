@@ -1,4 +1,3 @@
-require 'android/devices/version'
 require 'android/devices/model'
 require 'csv'
 
