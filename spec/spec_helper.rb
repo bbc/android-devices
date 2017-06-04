@@ -1,5 +1,5 @@
-require 'codeclimate-test-reporter'
+# require 'codeclimate-test-reporter'
 
-CodeClimate::TestReporter.start
+# CodeClimate::TestReporter.start
 
-$LOAD_PATH.unshift('./lib/')
+# $LOAD_PATH.unshift('./lib/')
