@@ -8,19 +8,27 @@ module Android
       csv_url = url.nil? || url.empty? ? 'http://storage.googleapis.com/play_public/supported_devices.csv' : url
       begin
         devices = CSV.parse(open(csv_url).read)
-        File.open('devices.csv','w') {|f| f.write(devices.inject([]) { |csv,row| csv << CSV.generate_line(row) }.join('').encode('UTF-8'))}
+        File.open("#{path}/devices.csv",'w') {|f| f.write(devices.inject([]) { |csv,row| csv << CSV.generate_line(row) }.join('').encode('UTF-8'))}
         return true
       rescue Exception
         raise 'Unable to update devices'
       end
     end
 
+    def self.path
+      @path || '.'
+    end
+
+    def self.path=(path)
+      @path = path
+    end
+
     def self.list_exists
-      return File.exists?('devices.csv')
+      return File.exists?("#{path}/devices.csv")
     end
 
     def self.old_list?
-      return (File.mtime('devices.csv') < Time.parse((DateTime.now - 30).to_s))
+      return (File.mtime("#{path}/devices.csv") < Time.parse((DateTime.now - 30).to_s))
     end
 
     def self.search_by_model(model)
@@ -44,7 +52,7 @@ module Android
     def self.devices
       return @devices unless @devices.nil?
       update_devices unless list_exists
-      @devices = CSV.read('devices.csv')
+      @devices = CSV.read("#{path}/devices.csv")
       @devices
     end
   end
