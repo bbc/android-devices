@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-require "bundler/gem_tasks"
-require "open-uri"
+require 'bundler/gem_tasks'
+require 'open-uri'
 require 'csv'
 
 task :update do
