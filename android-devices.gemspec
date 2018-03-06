@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 Gem::Specification.new do |spec|
   spec.name		= 'android-devices'
   spec.version		= '2.0.1'
