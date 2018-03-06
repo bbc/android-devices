@@ -5,7 +5,7 @@ Gem::Specification.new do |spec|
   spec.version = '2.0.1'
   spec.authors = ['Jon Wilson']
   spec.email = ['jon.wilson01@bbc.co.uk']
-  spec.summary = %q{Human readable Android device names}
+  spec.summary = %q(Human readable Android device names)
   spec.license = 'MIT'
   spec.homepage = 'https://github.com/bbc/android-devices'
 
