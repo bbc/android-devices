@@ -1,9 +1,8 @@
 require 'time'
-require 'devices'
+require 'android/devices'
 
 describe Android::Devices do
   subject { described_class }
-  let(:path) { File.join(File.dirname(__FILE__), '..', 'spec', 'test_devices.csv') }
   describe '#devices' do
     it 'loads the CSV only once ' do
       expect(CSV).to receive(:read).once.and_call_original
