@@ -51,7 +51,7 @@ module Android
 
     def self.devices
       return @devices unless @devices.nil?
-      update_devices unless list_exists
+      return [] unless list_exists
       @devices = CSV.read("#{path}/devices.csv")
       @devices
     end
