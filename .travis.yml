@@ -1,9 +1,16 @@
 language: ruby
 rvm:
-  - 2.2
-  - jruby
+  - 2.5.0
+  - 2.4.3
+  - 2.3.6
+  - 2.2.9
+  - ruby-head
+
+before_install:
+  - gem update --system
+
+matrix:
+  allow_failures:
+    - rvm: ruby-head
+
 script: bundle exec rspec
-addons:
-  code_climate:
-    repo_token:
-      secure: En4HMLkAsDxQ0mlUgjIZz4F4DOJ7G70Fj+H3sMcUwl26rNQh88U1zCesz/PfFtzO2Av4YX88cfAcXyTLhzasbpFX8pNt+7j1VVoVvZqlHzJ3KXOtJ7sucHRLmJtBky5RLNR3XDlSuHxtVTHg3qKfXdIKbX1nGCDmFfsXvXpyWxpkYIB/oyc1dwmGQOkYwj1a0T527M97GW9roeldbaaldn5FwsRJZxFCV3+g/e/DhZDOU7NKSWMP8Paa/hImV4/sB7jIA9FU2ZY6paiC3X6ePvu5b9O/iY9nv29rGVq4uQrbMQLS4Cb5pobdQNV9/5LCvkVDDDCasFfLTT9PeJ+8xdnvCtit85zawLFnVNmCDO6MrJFNTQOIvO1gojX52w68F1j24COBmt4z2GpE8aRCoNxj4kDGanFXr9cqLFXUbsvPED9j+34BLMlnPKRpTEywkTzWTlhCx1yHi5uQ06ntDTNcWJUJvFJpIimhKxHt+Ltbiem++KKW1Wo5rMKZ3TlP4In1Bk0awFJgKQ/W0j9UA5Wncww8DTD8gxyLKSx5xCBFJ0P8yypxG0obGHh0m3cqj429UDeh3T8AqQJbHcog+QTh/e7zsJEREZmgkfn2blbxH9MDgpgvjU/Cw2a0mJsSrLQJwOoTlsnKL3xodT9CuRittyDPa0yDMGcX/y0xa/M=
