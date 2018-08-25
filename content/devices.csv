@@ -501,6 +501,7 @@ AllView,X4 Soul Mini S,X4_Soul_Mini_S,X4_Soul_Mini_S_TM
 AllView,X4 Soul Style,X4_Soul_Style,X4_Soul_Style
 AllView,X4 Soul Vision,X4_Soul_Vision,X4_Soul_Vision
 AllView,X4 Soul Xtreme,X4_Soul_Xtreme,X4_Soul_Xtreme
+AllView,X5 Soul Mini,X5_Soul_Mini,X5_Soul_Mini
 AllView,X5 Soul Pro,X5_Soul_Pro,X5_Soul_Pro
 Allducube,T1001,T1001,T1001
 Allfine,M721,86S,M721
@@ -1441,6 +1442,7 @@ BMobile,AX921,Bmobile_AX921,AX921
 BMobile,AX921,Bmobile_AX921,Bmobile_AX921
 BMobile,AX922,Bmobile_AX922,AX922
 BMobile,AX950,Bmobile_AX950,AX950
+BMobile,Bmobile AX683,Bmobile_AX683,AX683
 BQru,5060,BQru-5060,BQru-5060
 BQru,5701L Slim,BQru-5701L,BQ-5701L
 BQru,BQ 5503 NICE 2,BQru_5503,BQru-5503
@@ -1909,6 +1911,7 @@ Bouygues Telecom,Bbox Miami,HMB4213H,BouygtelTV
 Bouygues Telecom,Bs 451,Bs_451,Bs 451
 Brandcode,L1Fa,L1Fa,L1Fa
 Bravis,NB753,NB753,NB753
+Bravis,NB76,NB76,NB76
 Bravis,X500,BRAVIS_X500,BRAVIS X500
 Bravis,bravis_A506,bravis_A506,bravis_A506
 Brighton,MAL-FWTVTB,MAL-FWTVTB,MAL-FWTVTB
@@ -2647,6 +2650,7 @@ DEXP,XL155,XL155,Ixion XL155
 DEXP,Z150,Z150,Z150
 DEXP,Z155,Z155,Z155
 DEXP,Z255,Z255,Z255
+DEXP,Z355,Z355,Z355
 DEXP,lxion MS255,MS255,Ixion MS255
 DIFRNCE,DIT702201,DIT702201,NID_7010
 DL,3406,G02DL,Tablet DL 3406
@@ -3032,11 +3036,13 @@ Eks Mobility,X4U+,X4UPlus,X4UPlus
 Electroland Ghana,NASCO_Allure,NASCO_Allure,NASCO_Allure
 Element,USA & CANADA,Tiger838,TU43GDX
 Elephone,A4,A4,A4
+Elephone,A4_Pro,A4_Pro,A4_Pro
 Elephone,Elephone S8,S8,S8
 Elephone,P8 3D,P8_3D,P8_3D
 Elephone,P8 Max,P8_Max,P8_Max
 Elephone,U,Elephone_U,U
 Elephone,U_Pro,U_Pro,U_Pro
+Elevate,G55_LITE,G55_LITE,G55 LITE
 Elevate,LUNA G60,G60,LUNA G60
 Elevate,LUNA G60X,G60X,LUNA G60X
 Elevate,LUNA V55,V55,LUNA V55
@@ -3166,6 +3172,7 @@ Evercoss,S45,EVERCOSS_S45,S45
 Evercoss,S50,EVERCOSS_S50,S50
 Evercoss,S55A,S55A,S55A
 Evercoss,S55B,S55B,S55B
+Evercoss,S57,S57,S57
 Evercoss,U50,U50,U50
 Evercoss,U50A,U50A,U50A
 Evercoss,U50A MAX,U50A_MAX,U50A MAX
@@ -3247,6 +3254,7 @@ F2 Mobile,LT18,LT18,LT18
 FBC,M24IS810,MX24,TDA02
 FBC,M24IS820,fst01ms,M24IS820
 FIREFLY MOBILE,AURII_AMUSE_3G,AURII_AMUSE_3G,AURII_AMUSE_3G
+FIREFLY MOBILE,INTENSE_XT,INTENSE_XT,INTENSE_XT
 FPT Trading,A15,A15_01,A15
 FPT Trading,FPT S68 4G,FPT_S68_4G,FPT S68 4G
 FPT Trading,FPT X10,X10,FPT_X10
@@ -3412,6 +3420,7 @@ Fossil,Wear,shiner,Riley Touch
 Fossil,Wear,shiner,Riley Touchscreen
 Fossil,Wear,shiner,Sofie
 Fossil,Wear OS,mullet,Vapor
+Four Mobile,S62_Eco_3,S62_Eco_3,S62_Eco_3
 Four Mobile,S710 Ruby,S710_Ruby,S710 Ruby
 Four Mobile,Sapphire,S750,Sapphire
 Four Mobile,Thunder,S350,Thunder
@@ -3675,6 +3684,7 @@ Getac,Z710,z710,Getac Z710
 Getac,ZX70,zx70,ZX70
 Getac,ZX70,zx70,zx70
 Ghia,GHIA_VECTOR_3G,GHIA_VECTOR_3G,GHIA_VECTOR_3G
+Ghia,GTABPND,GTABPND,GTABPND
 Ghia,GTKIDS7R,GTKIDS7R,GTKIDS7R
 Ghia,GTKIDS7V,GTKIDS7V,GTKIDS7V
 Ghia,ZEUS 3G,N2,GHIA_ZEUS_3G
@@ -3912,6 +3922,7 @@ GoClever,QUANTUM_700S/QUANTUM 700S,QUANTUM_700S,QUANTUM_700S
 GoClever,Quantum 500 STEEL,FQ_500R,Quantum_500_STEEL
 GoClever,TQ700/QUANTUM 700/TAB,TQ700,TQ700
 Gobox,T2,T2,T2
+Gol Mobile,F3Prime,F3Prime,F3Prime
 Gol Mobile,TEAM_7_3G,TEAM_7_3G,TEAM_7_3G
 Gome,GOME_C7_Note,GOME_C7_Note,GOME_C7_Note
 Gonna,Zebra,Zebra,Zebra
@@ -5490,6 +5501,12 @@ Honeywell,CN75E,CN75E,CX75 NC0
 Honeywell,CN75E,CN75E,CX75 NCF
 Honeywell,CN75E,CN75E,CX75 QC0
 Honeywell,CN75E,CN75E,CX75 QCF
+Honeywell,CN80,CN80-L0-C,CN80
+Honeywell,CN80,CN80-L0-N,CN80
+Honeywell,CN80,CN80-L1-C,CN80
+Honeywell,CN80,CN80-L1-N,CN80
+Honeywell,CT40,CT40-L0-C,CT40
+Honeywell,CT40,CT40-L1-C,CT40
 Honeywell,CT50,CT50L0N-CS12S,CT50
 Honeywell,CT50,CT50L0N-CS15S,CT50
 Honeywell,CT50,CT50L0N-CS16S,CT50
@@ -6160,6 +6177,7 @@ Huawei,Honor 9,HWSTF,STF-L09
 Huawei,Honor 9,HWSTF,STF-TL10
 Huawei,Honor 9 Lite,HWLLD-H,LLD-L21
 Huawei,Honor 9 Lite,HWLLD-H,LLD-L31
+Huawei,Honor 9N,HWLLD-H2,LLD-AL20
 Huawei,Honor Box,m321,M321
 Huawei,Honor Box Pro,hwHiTV-M1,HiTV-M1
 Huawei,Honor Box voice,HWM311,M311
@@ -6729,6 +6747,8 @@ Huawei,nova 3,HWPAR,PAR-TL20
 Huawei,nova 3e,HWANE,ANE-AL00
 Huawei,nova 3e,HWANE,ANE-TL00
 Huawei,nova 3i,HWINE,INE-AL00
+Huawei,nova 3i,HWINE,INE-LX1
+Huawei,nova 3i,HWINE,INE-LX2
 Huawei,nova 3i,HWINE,INE-TL00
 Huawei,nova lite,HWPRA-H,PRA-LX2
 Huawei,nova lite,HWPRA-H,PRA-LX3
@@ -6912,6 +6932,7 @@ Hyundai,Eternity G24,G25524K,G25524K
 Hyundai,Eternity G27,G24027K,G24027K
 Hyundai,Eternity W42,W25042L,W25042L
 Hyundai,Eternity W44,W25544L,W25544L
+Hyundai,Eternity_G25,Eternity_G25,Eternity_G25
 Hyundai,HDT-7433H,HDT-7433H,HDT-7433H
 Hyundai,HDT-7433X,HDT-7433X,HDT-7433X
 Hyundai,HT0702W08,HT0702W08,HT0702W08
@@ -7027,7 +7048,10 @@ Infinix,HOT5 Lite,Infinix-X559,Infinix X559
 Infinix,HOT5 Lite,X557,Infinix HOT 4
 Infinix,Hot 4 Pro,Infinix-X5511-13M,Infinix HOT 4 Pro
 Infinix,Infinix,Infinix_X510_sprout,Infinix X510
+Infinix,Infinix Note 5,Infinix-X604_sprout,Infinix X604
+Infinix,Infinix Note 5,Infinix-X604_sprout,Infinix X604B
 Infinix,Infinix X5010,Infinix-X5010,Infinix X5010
+Infinix,Infinix X510,Infinix_X510_sprout,Infinix X510
 Infinix,Infinix X559,Infinix-X559,Infinix X559
 Infinix,Infinix X571,Infinix-X571,Infinix X571
 Infinix,Infinix X572,Infinix-X572,Infinix X572
@@ -7039,8 +7063,6 @@ Infinix,NOTE 4,Infinix-X572,Infinix X572
 Infinix,NOTE 4,Infinix-X572,Infinix X572-LTE
 Infinix,NOTE 4 Pro,Infinix-X571,Infinix X571
 Infinix,NOTE 4 Pro,Infinix-X571,Infinix X571-LTE
-Infinix,Note 5,Infinix-X604_sprout,Infinix X604
-Infinix,Note 5,Infinix-X604_sprout,Infinix X604B
 Infinix,RACE Blot2,Infinix_X454,Infinix X454
 Infinix,RACE Bolt 3,X455,Infinix X455
 Infinix,S2,Infinix-X522,Infinix S2
@@ -7382,6 +7404,7 @@ Itel,A13 Plus,itel-A13Plus,itel A13Plus
 Itel,A15,itel-A15,itel A15
 Itel,A21,itel_A21,itel A21
 Itel,A22,itel-A22,itel A22
+Itel,A22 Pro,itel-A22-Pro,itel A22 Pro
 Itel,A31 Plus,itel-A31Plus,itel A31Plus
 Itel,A32F,itel-A32F,itel A32F
 Itel,A41,itel_A41,itel A41
@@ -7575,6 +7598,7 @@ KOOLNEE,K1,KOOLNEE_K1,K1
 KOOLNEE,RAINBOW,RAINBOW,RAINBOW
 KOOOK,C600,GBC_bravo,C600
 KRIP,K5,K5,K5
+KRIP,KRIP_K4,KRIP_K4,KRIP_K4
 KT Tech,,s120,KM-S120
 KT Tech,,s200,KM-S200
 KT Tech,,s220,KM-S220
@@ -9084,6 +9108,7 @@ Lanix,Ilium Pad T7X,Ilium_Pad_T7X,Ilium Pad T7X
 Lanix,Ilium X110,ILIUM_X110,Ilium X110
 Lanix,Ilium X120,Ilium_X120,Ilium X120
 Lanix,Ilium X120B,Ilium_X120B,Ilium X120B
+Lanix,Ilium X120C,X120C,X120C
 Lanix,Ilium X200,Ilium_X200,Ilium X200
 Lanix,Ilium X210,Ilium_X210,Ilium X210
 Lanix,Ilium X220,Ilium_X220,Ilium X220
@@ -9092,6 +9117,7 @@ Lanix,Ilium X500B,Ilium_X500B,Ilium X500B
 Lanix,Ilium X510,Ilium_X510,Ilium X510
 Lanix,Ilium X520,Ilium_X520,Ilium X520
 Lanix,Ilium X710,Ilium_X710,Ilium X710
+Lanix,Ilium_Alpha7,Ilium_Alpha7,Ilium Alpha 7
 Lanix,Ilium_L1100,Ilium_L1100,ILIUM L1100
 Lanix,Ilium_S130,Ilium_S130,Ilium S130
 Lanix,Ilium_S130,Ilium_S130,Ilium_S130
@@ -9099,7 +9125,9 @@ Lanix,Ilium_S520,Ilium_S520,ILIUM S520
 Lanix,LANIX_PAD_E7,ILIUM_PADE7V11,LANIX_PAD_E7
 Lanix,Llium L910,Ilium_L910,Ilium L910
 Lanix,X100,ILIUM_X100,ILIUM_X100
+Lanix,X230,X230,X230
 Lanix,X400,Ilium_X400,ILIUM X400
+Lanix,X530,X530,X530
 Lanix,ilium  PAD  E9,ILium_PADE9,ilium PAD E9
 Lanix,ilium PAD E7,ILIUM_PADE7,ilium PAD E7
 Lanix,ilium PAD E8,ILIUM_PADE8,ilium PAD E8
@@ -9650,6 +9678,7 @@ Lenovo,Lenovo Tab 7 Essential,TB-7304I,Lenovo TB-7304I
 Lenovo,Lenovo Tab 7 Essential,TB-7304N,Lenovo TB-7304N
 Lenovo,Lenovo Tab 7 Essential,TB-7304X,Lenovo TB-7304X
 Lenovo,Lenovo Tab E7,TB7104F,Lenovo TB-7104F
+Lenovo,Lenovo Tab M10,X605F,Lenovo TB-X605F
 Lenovo,Lenovo Tab4 10 Plus,X704A,TB-X704A
 Lenovo,Lenovo X2-CU/VIBE X2,X2-CU,Lenovo X2-CU
 Lenovo,Lenovo YOGA A12,YOGA-A12,Lenovo YB-Q501L
@@ -10303,6 +10332,7 @@ Meitu,M8s,MayaS,MP1709
 Meitu,Maya,Maya,MP1603
 Meitu,Meitu T8s,VictoriaS,MP1701
 Meitu,Meitu V6,Vivian,MP1605
+Meitu,Tiffany,Tiffany,MP1718
 Meitu,V4,V4,Meitu V4
 Meitu,V4s,V4s,Meitu V4s
 Meitu,Victoria,Victoria,MP1602
@@ -10581,6 +10611,7 @@ Micromax,YUREKA S,YUREKA2,YU5551
 Micromax,Yunique 2 Plus,YU5012,YU5012
 Micromax,Yuphoria,YUPHORIA,YU5010
 Micromax,Yutopia,YUTOPIA,YU5050
+Microtech,Microtech_e-tab_Style,Microtech_etabStyle,Microtech_etabStyle
 Microtech,e-tab_style_rev.3,e-tab_style_REV3,e-tab_style_REV3
 MiiA,MT-733G,MT-733G,MT-733G
 MiiA,MiiA,TA10CA1_2,TA10CA1
@@ -10949,6 +10980,8 @@ Motorola,Moto E with 4G LTE (2nd Gen),surnia_cdma,XT1528O
 Motorola,Moto E with 4G LTE (2nd Gen),surnia_uds,MotoE2(4G-LTE)
 Motorola,Moto E with 4G LTE (2nd Gen),surnia_udstv,MotoE2(4G-LTE)
 Motorola,Moto E with 4G LTE (2nd Gen),surnia_umts,MotoE2(4G-LTE)
+Motorola,Moto E3,taidos_row,XT1700
+Motorola,Moto E3 Power,taido_row,XT1706
 Motorola,Moto E4,perry_f,Moto E (4)
 Motorola,Moto G (1st Gen),falcon_cdma,XT1028
 Motorola,Moto G (1st Gen),falcon_cdma,XT1031
@@ -11058,6 +11091,7 @@ Motorola,Moto Z Play,addison,XT1635-02
 Motorola,Moto Z Play,addison,XT1635-03
 Motorola,Moto Z Play Droid,addison,XT1635-01
 Motorola,Moto Z(3),messi,Moto Z (2)
+Motorola,Moto Z(3),messi,XT1929-15
 Motorola,Moto Z(3),messi,moto z3
 Motorola,Motoluxe,XT611,XT611
 Motorola,Motoluxe,XT615,XT615
@@ -11111,12 +11145,15 @@ Motorola,XOOM 2,fleming,MZ609
 Motorola,XOOM 2,pasteur,MZ617
 Motorola,XT605,umts_jorian,XT605
 Motorola,XT627,umts_irock,XT627
+Motorola,moto P30 NOTE,chef,XT1942-1
 Motorola,moto e(5) cruise,james,moto e5 cruise
 Motorola,moto e(5) play,james,moto e5 play
 Motorola,moto e(5) plus,rhannah,Moto E
 Motorola,moto e(5) plus,rhannah,moto e5 plus
 Motorola,moto e5,nora_8917_n,moto e5
 Motorola,moto e5 play,james,moto e5 play
+Motorola,moto e5 play,pettyl,Moto E
+Motorola,moto e5 play,pettyl,moto e5 play
 Motorola,moto e5 play,rjames_f,Moto E
 Motorola,moto e5 play,rjames_f,moto e5 play
 Motorola,moto e5 plus,ahannah,Moto E
@@ -11157,8 +11194,10 @@ Movic,MOVIC_W5,MOVIC_W5,MOVIC-W5
 Moviltelco Trade,A58B,A58B,A58B
 Moviltelco Trade,mtt L452,L452,L452
 Moviltelco Trade,mtt L509,L509,MTT_L509
+Movitel,M8414,Movitel_M8414,M8414
 Moxee Technologies,X10,X10,X10
 Moxee Technologies,X100,X100,X100
+Mpgio,LEGEND_R,LEGEND_R,LEGEND_R
 Mpman,PH604,PH604,PH604
 Multilaser,Discovery,Discovery,Discovery
 Multilaser,Kidpad-3G,Kidpad-3G,Kidpad-3G
@@ -11454,8 +11493,6 @@ NVIDIA,TegraNote,tegranote,TegraNote-Premium
 NVIDIA,TegraNote,tegranote7c,Tegra Note 7
 NYX Mobile,A1,NYX_A1,NYX_A1
 NYX Mobile,BLINK,BLiNK,BLiNK
-NYX Mobile,C450,C450,C450
-NYX Mobile,C500,C500,C500
 NYX Mobile,Click,Click,Click
 NYX Mobile,FIT,FIT,FIT
 NYX Mobile,GLAM,GLAM,GLAM
@@ -11527,6 +11564,7 @@ Neffos,C5L,QC601,TP601B
 Neffos,C5L,QC601,TP601C
 Neffos,C5L,QC601,TP601E
 Neffos,Neffos C7,C7,Neffos C7
+Neffos,Neffos C9,C9,Neffos_C9
 Neffos,Neffos C9A,C9A,Neffos_C9A
 Neffos,Neffos N1,N1,Neffos N1
 Neffos,Neffos X1,X1,Neffos X1
@@ -11603,6 +11641,7 @@ Noblex,T7A6N,Tablet,T7A6N
 Nokia,N1,Nokia_N1,N1
 Nokia,Nokia 1,FRT,Nokia 1
 Nokia,Nokia 2,E1M,Nokia 2
+Nokia,Nokia 2.1,E2M,Nokia 2.1
 Nokia,Nokia 3,NE1,TA-1020
 Nokia,Nokia 3,NE1,TA-1028
 Nokia,Nokia 3,NE1,TA-1032
@@ -11615,6 +11654,7 @@ Nokia,Nokia 5,ND1,TA-1044
 Nokia,Nokia 5,ND1,TA-1053
 Nokia,Nokia 5.1,CO2N_sprout,Nokia 5.1
 Nokia,Nokia 5.1,CO2_sprout,Nokia 5.1
+Nokia,Nokia 5.1 Plus,PDA_sprout,Nokia 5.1 Plus
 Nokia,Nokia 6,D1C,TA-1000
 Nokia,Nokia 6,D1C,TA-1003
 Nokia,Nokia 6,PL2,TA-1054
@@ -11633,6 +11673,7 @@ Nokia,Nokia 8,NB1,TA-1012
 Nokia,Nokia 8,NB1,TA-1052
 Nokia,Nokia 8 Sirocco,A1N,Nokia 8 Sirocco
 Nokia,Nokia 8 Sirocco,A1N_sprout,Nokia 8 Sirocco
+Nokia,Nokia X5,PDA,Nokia X5
 Nokia,Nokia X6,DRG,Nokia X6
 Nomi,CORSA 3 LTE,Nomi_C070030,Nomi_C070030
 Nomi,Corsa 3 3G,Nomi_C070012,Nomi_C070012
@@ -12167,6 +12208,7 @@ Panasonic,ELUGA U2,ELUGA_U2,Panasonic ELUGA U2
 Panasonic,ELUGA V,P-06D,P-06D
 Panasonic,ELUGA WE,ELUGA_WE,Panasonic ELUGA WE
 Panasonic,ELUGA X,P-02E,P-02E
+Panasonic,ELUGA X1,ELUGA_X1,ELUGA X1
 Panasonic,ELUGA dL1,pana2_4v,Panasonic_dL1
 Panasonic,EX00C,EX00C,EX00C
 Panasonic,EX01C,EX01C,EX01C
@@ -12780,6 +12822,8 @@ Prestigio,Multipad Wize 3757 3G,PMT3777_3G,PMT3757_3G
 Prestigio,Multiphone 5508 DUO,PSP5508DUO,PSP5508DUO
 Prestigio,Muze A3,PSP3452DUO,PSP3452DUO
 Prestigio,PGPS7795,PMT3057_3G,PGPS7795
+Prestigio,PMT1177_ 4G,LS70A6L,PMT1177_4G
+Prestigio,PMT1177_3G,LS70A5G,PMT1177_3G
 Prestigio,PMT3008_Wi,PMT3008_Wi_C,PMT3008_Wi_C
 Prestigio,PMT3011_3G,PMT3011_3G,PMT3011_3G
 Prestigio,PMT3021_3G,PMT3011_3G,PMT3021_3G
@@ -12791,8 +12835,11 @@ Prestigio,PMT3077_Wi,HF80A01W,PMT3077_Wi
 Prestigio,PMT3087_3G,PMT3057_3G,PMT3087_3G
 Prestigio,PMT3101_4G,CF10A1L,PMT3101_4G
 Prestigio,PMT3137_3G,JP70A1W,PMT3137_3G
+Prestigio,PMT3151_3G,WT10A1G,PMT3151_3G
 Prestigio,PMT3157_3G,LS70A5G,PMT3157_3G
 Prestigio,PMT3157_4G,LS70A6L,PMT3157_4G
+Prestigio,PMT3161_3G,WT10A1G,PMT3161_3G
+Prestigio,PMT3171_3G,WT10A1G,PMT3171_3G
 Prestigio,PMT3177_3G,PMT3177_3G,PMT3177_3G
 Prestigio,PMT3201_4G,CF10A1L,PMT3201_4G
 Prestigio,PMT3208_3G,PN80A03G,PMT3208_3G
@@ -12800,12 +12847,18 @@ Prestigio,PMT3257_4G,LS70A6L,PMT3257_4G
 Prestigio,PMT3277_3G,PMT3277_3G,PMT3277_3G
 Prestigio,PMT3287_3G,PMT3287_3G,PMT3287_3G
 Prestigio,PMT3301_4G,CF10A1L,PMT3301_4G
+Prestigio,PMT3317_3G,LS70A5G,PMT3317_3G
+Prestigio,PMT3327_3G,LS70A5G,PMT3327_3G
 Prestigio,PMT3351_3G,PN10A01G,PMT3351_3G
 Prestigio,PMT3418_4G,LS80A4L,PMT3418_4G
+Prestigio,PMT3427_3G,LS70A5G,PMT3427_3G
 Prestigio,PMT3437_3G,JP70A1W,PMT3437_3G
+Prestigio,PMT3437_4G,LS70A6L,PMT3437_4G
 Prestigio,PMT3507_4G,WT70A1L,PMT3507_4G
+Prestigio,PMT3537_4G,LS70A6L,PMT3537_4G
 Prestigio,PMT3607_4G,WT70A1L,PMT3607_4G
 Prestigio,PMT3608_4G,LS80A1L,PMT3608_4G
+Prestigio,PMT3637_4G,LS70A6L,PMT3637_4G
 Prestigio,PMT3677_Wi,PMT3677,PMT3677_Wi
 Prestigio,PMT3718_3G,CF80A2G,PMT3718_3G
 Prestigio,PMT3767_3G,PMT3777_3G,PMT3767_3G
@@ -13863,7 +13916,10 @@ Samsung,Galaxy J2,j2lte,SM-J200Y
 Samsung,Galaxy J2,j2ltedtv,SM-J200BT
 Samsung,Galaxy J2,j2y18lte,SM-J250Y
 Samsung,Galaxy J2 (2018),j2y18lte,SM-J250F
+Samsung,Galaxy J2 Core,j2corelte,SM-J260F
 Samsung,Galaxy J2 Core,j2corelte,SM-J260G
+Samsung,Galaxy J2 Core,j2corelte,SM-J260M
+Samsung,Galaxy J2 Core,j2corelte,SM-J260Y
 Samsung,Galaxy J2 Prime,grandpplte,SM-G532G
 Samsung,Galaxy J2 Prime,grandpplte,SM-G532M
 Samsung,Galaxy J2 Pro,j2y18lte,SM-J250G
@@ -13874,6 +13930,7 @@ Samsung,Galaxy J3,j3ltectc,SM-J3109
 Samsung,Galaxy J3,j3ltespr,SM-J320P
 Samsung,Galaxy J3,j3popelteue,SM-J327U
 Samsung,Galaxy J3,j3topeltevzw,SM-J337VPP
+Samsung,Galaxy J3,j3toplteue,SM-J337U
 Samsung,Galaxy J3,j3x3g,SM-J320H
 Samsung,Galaxy J3,j3y17qltecmcc,SM-J3300
 Samsung,Galaxy J3,j3y17qltecmcc,SM-J3308
@@ -13881,6 +13938,7 @@ Samsung,Galaxy J3 Achieve,j3topeltespr,SM-J337P
 Samsung,Galaxy J3 Eclipse,j3popltevzw,SM-J327V
 Samsung,Galaxy J3 Emerge,j3popltespr,SM-J327P
 Samsung,Galaxy J3 Mission,j3popltevzw,SM-J327VPP
+Samsung,Galaxy J3 Orbit,j3topeltetfnvzw,SM-S367VL
 Samsung,Galaxy J3 Pop,j3popelteaio,SAMSUNG-SM-J326AZ
 Samsung,Galaxy J3 Pop,j3popelteaio,SAMSUNG-SM-J327AZ
 Samsung,Galaxy J3 Pop,j3popelteatt,SAMSUNG-SM-J327A
@@ -13970,11 +14028,14 @@ Samsung,Galaxy J7,j7e3g,SM-J700H
 Samsung,Galaxy J7,j7elte,SM-J700F
 Samsung,Galaxy J7,j7elte,SM-J700M
 Samsung,Galaxy J7,j7ltechn,SM-J7008
+Samsung,Galaxy J7,j7popelteue,SM-J727U
 Samsung,Galaxy J7,j7poplteusc,SM-J727R4
 Samsung,Galaxy J7,j7popltevzw,SM-J727VPP
 Samsung,Galaxy J7,j7topeltevzw,SM-J737VPP
 Samsung,Galaxy J7,j7y17lte,SM-J730F
 Samsung,Galaxy J7,j7y17lte,SM-J730FM
+Samsung,Galaxy J7 Aura,j7topelteusc,SM-J737R4
+Samsung,Galaxy J7 Crown,j7topeltetfnvzw,SM-S767VL
 Samsung,Galaxy J7 Duo,j7duolte,SM-J720F
 Samsung,Galaxy J7 Duo,j7duolte,SM-J720M
 Samsung,Galaxy J7 Max,j7maxlte,SM-G615F
@@ -13984,8 +14045,6 @@ Samsung,Galaxy J7 Neo,j7velte,SM-J701MT
 Samsung,Galaxy J7 Perx,j7popltespr,SM-J727P
 Samsung,Galaxy J7 Pop,j7popelteaio,SAMSUNG-SM-J727AZ
 Samsung,Galaxy J7 Pop,j7popelteatt,SAMSUNG-SM-J727A
-Samsung,Galaxy J7 Pop,j7popeltetfntmo,SM-S737TL
-Samsung,Galaxy J7 Pop,j7popelteue,SM-J727U
 Samsung,Galaxy J7 Pop,j7popqltetfnvzw,SM-S727VL
 Samsung,Galaxy J7 Prime,j7popeltemtr,SM-J727T1
 Samsung,Galaxy J7 Prime,j7popeltetmo,SM-J727T
@@ -13999,6 +14058,7 @@ Samsung,Galaxy J7 Prime2,on7xreflteins,SM-G611FF
 Samsung,Galaxy J7 Pro,j7y17lte,SM-J730G
 Samsung,Galaxy J7 Pro,j7y17lte,SM-J730GM
 Samsung,Galaxy J7 Refine,j7topeltespr,SM-J737P
+Samsung,Galaxy J7 Sky Pro,j7popeltetfntmo,SM-S737TL
 Samsung,Galaxy J7 Star,j7topltetmo,SM-J737T
 Samsung,Galaxy J7 Top,j7toplteatt,SM-J737A
 Samsung,Galaxy J7 Top,j7topltetfntmo,SM-S757BL
@@ -14892,6 +14952,7 @@ Samsung,Galaxy Tab A 10.1,gtaxlwifi,SM-T580X
 Samsung,Galaxy Tab A 10.1,gtaxlwifichn,SM-T580X
 Samsung,Galaxy Tab A 10.1(2016),gtanotexllte,SM-P585
 Samsung,Galaxy Tab A 10.1(2016),gtanotexllte,SM-P585Y
+Samsung,Galaxy Tab A 10.5,gta2xllte,SM-T595
 Samsung,Galaxy Tab A 10.5(2018),gta2xllte,SM-T595
 Samsung,Galaxy Tab A 7.0,gtexslte,SM-T285
 Samsung,Galaxy Tab A 7.0,gtexslte,SM-T285M
@@ -14923,6 +14984,8 @@ Samsung,Galaxy Tab A 9.7,gt5note10lteskt,SM-P555S
 Samsung,Galaxy Tab A 9.7,gt5note10wifi,SM-P550
 Samsung,Galaxy Tab A 9.7,gt5note10wifichn,SM-P550
 Samsung,Galaxy Tab A S 8.0,gt58ltebmc,SM-T357W
+Samsung,Galaxy Tab A(10.5),gta2xllte,SM-T597
+Samsung,Galaxy Tab A(10.5),gta2xlltekx,SM-T595N
 Samsung,Galaxy Tab A2 8.0,gta2swifichn,SM-T380C
 Samsung,Galaxy Tab Active2,gtactive2lte,SM-T395
 Samsung,Galaxy Tab Active2,gtactive2ltechn,SM-T395C
@@ -15018,6 +15081,9 @@ Samsung,Galaxy Tab S3,gts3lwifi,SM-T820
 Samsung,Galaxy Tab S3,gts3lwifi,SM-T820X
 Samsung,Galaxy Tab S3,gts3lwifichn,SM-T820
 Samsung,Galaxy Tab S4,gts4llte,SM-T835
+Samsung,Galaxy Tab S4,gts4llte,SM-T837
+Samsung,Galaxy Tab S4,gts4lltekx,SM-T835N
+Samsung,Galaxy Tab S4,gts4lltespr,SM-T837P
 Samsung,Galaxy Tab S4,gts4lltevzw,SM-T837V
 Samsung,Galaxy Tab S4,gts4lwifi,SM-T830
 Samsung,Galaxy Tab2 10.1,espresso10att,SAMSUNG-SGH-I497
@@ -15322,6 +15388,7 @@ Sanyo,CEH1,CEH1,CEH1
 Sanyo,CER2,CER2,CER2
 Sanyo,CER3,CER3,CER3
 Sasktel,SaskTel maxTV Stream,HMB2213PW22WA,HMB2213PW22WA
+Schok,FreedomTurboXL,SFT57216,FreedomTurboXL
 Schok,freedom turbo,SFT5216,freedom turbo
 Schok,mini_SM7216,SM7216,SM7216
 Seatel,L4,L4,L4
@@ -18026,6 +18093,7 @@ Vertex,Impress Dune,Impress_Dune,Impress_Dune
 Vertex,Impress Eagle,Impress_Eagle,Impress_Eagle
 Vertex,Impress Eclipse (4G),IMPRESS_ECLIPSE,IMPRESS ECLIPSE
 Vertex,Impress Fire,Impress_Fire,Impress_Fire
+Vertex,Impress Forest,Impress_Forest,Impress_Forest
 Vertex,Impress Fortune,Impress_Fortune,Impress_Fortune
 Vertex,Impress Grip,Grip,Impress_Grip
 Vertex,Impress Groove,Impress_Groove,Impress_Groove
@@ -18046,6 +18114,7 @@ Vertex,Impress Tor,Impress_Tor,Impress_Tor
 Vertex,Impress Vega (4G),Impress_Vega,Impress_Vega
 Vertex,Impress_Bear,Impress_Bear,Impress_Bear
 Vertex,Impress_Blade,Impress_Blade,Impress_Blade
+Vertex,Impress_City,Impress_City,Impress_City
 Vertex,Impress_Disco,Impress_Disco,Impress Disco
 Vertex,Impress_Energy,Impress_Energy,Impress_Energy
 Vertex,Impress_Frost,Impress_Frost,Impress_Frost
@@ -18746,6 +18815,7 @@ Xiaomi,HM NOTE 1TD,lcsh92_wet_tdd,HM NOTE 1TD
 Xiaomi,HM NOTE 1W,lcsh92_wet_jb9,HM NOTE 1W
 Xiaomi,HM Note 2,hermes,Redmi Note 2
 Xiaomi,Hong Mi,HM2013022,2013022
+Xiaomi,MI  8  Explorer  Edition,ursa,MI 8 Explorer Edition
 Xiaomi,MI 2,aries,MI 2
 Xiaomi,MI 2,aries,MI 2S
 Xiaomi,MI 2A,taurus,MI 2A
@@ -18872,6 +18942,7 @@ Yezz,5E4,5E4,5E4
 Yezz,EPIC_T,EPIC_T,EPIC T
 Yota Devices,C9660,yotaphone,C9660
 Yota Devices,YotaPhone2,yotaphone2,YD201
+Yuho,O2 PRO,YUHO_O2_PRO,YUHO_O2_PRO
 Yuho,Y2,YUHO_Y2,YUHO_Y2
 Yuho,Y2_PRO,YUHO_Y2_PRO,YUHO_Y2_PRO
 Yuho,YUHO_O1,YUHO_O1,YUHO_O1
@@ -20223,6 +20294,8 @@ Zeki,TBQG774,TBQG774,TBQG774
 Zeki,TBQG838,TBQG838,TBQG838
 Zeki,TBQG855,TBQG855,TBQG855
 Zeki,Zeki TBQG884,TBQG884,TBQG884
+Zelumobile,C450,C450,C450
+Zelumobile,C500,C500,C500
 Zen,ADMIRE CURVE NEO,ZEN_ADMIRE_CURVE_NEO,ADMIRE_CURVE_NEO
 Zen,ADMIRE SHINE,ADMIRE_SHINE,ADMIRE SHINE
 Zen,Admire Blaze,ZEN_ADMIRE_BLAZE,Admire Blaze
@@ -20349,11 +20422,14 @@ iBRIT,Alpha,AF51,AF51
 iBRIT,IBRIT_I5,i5,IBRIT_I5
 iBRIT,IBRIT_I7,i7,IBRIT_I7
 iBRIT,Speed_Pro_Plus,SF56,SF56
+iBRIT,Z2,Z2,Z2
 iBRIT,Z2Lite,Z2Lite,Z2Lite
+iBRIT,i2,i2,i2
 iBRIT,iBRIT SpeedX,SpeedX,SpeedX
 iBall,iBall,iBall_Slide_Brace_XJ,iBall Slide Brace XJ
 iBall,iBall,iBall_Slide_Dazzle_i7,iBall Slide Dazzle i7
 iBall,iBall Slide Imprint 4G,Imprint_4G,iBall_Slide_Imprint_4G
+iBall,iBall Slide Iris Drishti 4G,Iris_Drishti_4G,iBall_Slide_Iris_Drishti_4G
 iBall,iBall Slide Nimble 4GF,Slide_Nimble_4GF,iBall_Slide_Nimble_4GF
 iBall,iBall Slide Snap 4G2,Snap_4G2,Snap_4G2
 iBall,iBall Slide Twinkle i5,Twinkle_i5,Twinkle_i5
