@@ -3,17 +3,11 @@ sudo: false
 language: ruby
 cache: bundler
 rvm:
-  - 2.3.8
-  - 2.4.5
-  - 2.5.3
-  - ruby-head
+  - 2.5.5
+  - 2.6.2
 
 before_install:
-  - gem install bundler
   - gem update --system
-
-matrix:
-  allow_failures:
-    - rvm: ruby-head
+  - gem install bundler
 
 script: bundle exec rspec
