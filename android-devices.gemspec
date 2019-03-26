@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name = 'android-devices'
-  spec.version = '2.0.38'
+  spec.version = '3.0.0'
   spec.authors = ['Jon Wilson']
   spec.email = ['jon.wilson01@bbc.co.uk']
   spec.summary = 'Human readable Android device names'
