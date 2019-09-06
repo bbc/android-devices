@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    android-devices (3.0.5)
+    android-devices (3.0.6)
 
 GEM
   remote: https://rubygems.org/
