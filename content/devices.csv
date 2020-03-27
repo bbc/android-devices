@@ -507,6 +507,7 @@ Akai,FZ703,FZ703,FZ703
 Akai,MD1063,MD1063,MD1063
 Akari,AX-115ATV,DV8035,AX-115ATV
 Akari,AX-117ATV,DV8219,AX-117ATV
+Akino,IN-32SE9,shibuya,AkinoTV
 Alba,ALBA 7 TABLET,ac70plv6,ALBA 7 TABLET
 Alba,Alba 4G Plus,ac57crs,Alba 4G Plus
 Alba,Alba 6,ac60crs,Alba 6
@@ -9690,6 +9691,8 @@ Infinix,NOTE 4,Infinix-X572,Infinix X572
 Infinix,NOTE 4,Infinix-X572,Infinix X572-LTE
 Infinix,NOTE 4 Pro,Infinix-X571,Infinix X571
 Infinix,NOTE 4 Pro,Infinix-X571,Infinix X571-LTE
+Infinix,NOTE 7,Infinix-X690,Infinix X690
+Infinix,NOTE 7,Infinix-X690B,Infinix X690B
 Infinix,Note 6,Infinix-X610,Infinix X610B
 Infinix,RACE Blot2,Infinix_X454,Infinix X454
 Infinix,RACE Bolt 3,X455,Infinix X455
@@ -16933,6 +16936,7 @@ Philco,PHILCO_TP7A6,PHILCO_TP7A6,TP7A6
 Philco,PTB7PAP_ PTB7PAB _ PTB7PAR,PTB7PA,PTB7PAP_PTB7PAB_PTB7PAR
 Philco,PTB7QSG_3G,PTB7QSG_3G,PTB7QSG_3G
 Philco,PTB7R,PTB7R,PTB7R
+Philco,PhilcoTV,shinjuku,PhilcoTV
 Philco,TP10A3N,TP10A3N,TP10A3N
 Philco,TP7A4BB,TP7A4BB,TP7A4BB
 Philco,TP7A4N,TP7A4N,TP7A4N
@@ -17005,6 +17009,7 @@ Philips,S337,S337_AG,Philips S337
 Philips,S337,S337_BG,Philips S337
 Philips,S337,scx35_sp7731gea_hd,Philips S337
 Philips,S395,S395,Philips S395
+Philips,Smart TV,sindap,PHILIPS 4K TV
 Philips,T8 PI7000,Tablet_8,PI7000
 Philips,TLE722G,TLE722G,TLE722G
 Philips,TLE732,TLE732,TLE732
@@ -23017,6 +23022,7 @@ TCT (Alcatel),Alcatel 1S,Tokyo_CAN,5007O
 TCT (Alcatel),Alcatel 1SE,Jakarta,5030D
 TCT (Alcatel),Alcatel 1SE,Jakarta,5030D_EEA
 TCT (Alcatel),Alcatel 1SE,Jakarta,5030D_RU
+TCT (Alcatel),Alcatel 1SE,Jakarta,5030F
 TCT (Alcatel),Alcatel 1T 7 WIFI,U3A_7_WIFI,8068
 TCT (Alcatel),Alcatel 1V,Tokyo_Lite,5007A
 TCT (Alcatel),Alcatel 1V,Tokyo_Lite,5007G
@@ -23971,6 +23977,7 @@ Telefunken,TEL-73GIQA,TEL-73GIQA,TEL-73GIQA
 Telefunken,TF501_EC,TF501_EC,TF501_EC
 Telefunken,TF5X,TF5X,TF5X
 Telefunken,TF6,TF6,TF6
+Telefunken,TelefunkenTV,shibuya,TelefunkenTV
 Telefunken,VP73_Telefunken,Telefunken,VP73_Telefunken
 Telego,F10,F10,F10
 Telego,F8,F8,F8
@@ -25558,6 +25565,7 @@ Wiko,Y60,W-K510,W-K510-TVM
 Wiko,Y60,W-K510,W-K510S-OPE
 Wiko,Y60,W-K510,W-K510S-SWI
 Wiko,Y60,W-K510DG,W-K510-TH
+Wiko,Y61,W-K560,W-K560-TVM
 Wiko,Y80,W-V720,W-V720-CA
 Wiko,Y80,W-V720,W-V720-EEA
 Wiko,Y80,W-V720,W-V720-OPE
